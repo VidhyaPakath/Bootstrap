@@ -1,0 +1,22 @@
+.thumbnail img {
+  object-fit: cover;
+  height:250px;
+  width:100%;
+
+}
+
+.btn{
+  background-color: orange;
+}
+
+body{
+  background-color: brown;
+}
+
+h2{
+  color: yellow;
+}
+
+p{
+  background-color: #965250;
+}
